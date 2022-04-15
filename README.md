@@ -1,5 +1,5 @@
 <h1 align="center">
-   ArchAPI
+   ArcHAPI
 </h1>
 
 <br>
